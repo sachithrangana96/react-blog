@@ -1,19 +1,52 @@
 {
-  "posts": [
+  "Blogs": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "title": "test update",
+      "description": "test here .....",
+      "category": "Fashion",
+      "imageUrl": "Fashion.jpg",
+      "date": "04/09/2022",
+      "id": 1
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "test 2",
+      "description": "test twooo",
+      "category": "Fashion",
+      "imageUrl": "Fashion1.jpg",
+      "date": "04/09/2022",
+      "id": 2
+    },
+    {
+      "title": "test3",
+      "description": "test threee",
+      "category": "Fitness",
+      "imageUrl": "Fitness.jpg",
+      "date": "04/09/2022",
+      "id": 3
+    },
+    {
+      "title": "test4",
+      "description": "kcslc kd;ada; daj acpjca cack'apc'ac k'ak'c",
+      "category": "Sports",
+      "imageUrl": "Sports.jpg",
+      "date": "04/11/2022",
+      "id": 4
+    },
+    {
+      "title": "test5",
+      "description": " mx jx; C;cac acac acjc;aocjaocjalhc avhscbac jacbgajcakgcakgcka cachcao",
+      "category": "Travel",
+      "imageUrl": "Travel.jpg",
+      "date": "04/11/2022",
+      "id": 5
+    },
+    {
+      "title": "test6",
+      "description": "xx LXCHALHCALCCSLCJ ;AJCL CJC;AJC;A",
+      "category": "Tech",
+      "imageUrl": "Tech1.jpg",
+      "date": "04/11/2022",
+      "id": 6
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
